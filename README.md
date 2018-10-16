@@ -52,7 +52,8 @@ INSERT INTO  myretail.product_detail (product_id ,product_value ,
 INSERT INTO  myretail.product_detail (product_id ,product_value , 
 	currency_code) VALUES('15643793',16.15, 'USD');
 
-## Swagger details :http://localhost:8080/swagger-ui.html#/
+## Swagger details :
+http://localhost:8080/swagger-ui.html#/
 
 ## Steps to run the project
 Import the project in IDE from github(https://github.com/trishalalatthe/DemoProject)
